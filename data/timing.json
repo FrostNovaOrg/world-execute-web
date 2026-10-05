@@ -1,0 +1,5210 @@
+{
+ "version": 1,
+ "audio": {
+  "sampleRate": 48000,
+  "duration": 211.907
+ },
+ "tempo": {
+  "bpm": 129.999,
+  "stable": true,
+  "ibiStd": 0.006,
+  "notes": "Constant 129.999 BPM in 4/4 for the whole song: beat_this (final0, minimal postprocessing, sub-frame peak interpolation) found 450 beats, IBI std 6.0 ms after dropping 1 spurious detection(s) at 89.63s and bridging 1 gap(s); local 8-bar tempo range 129.87-130.14 BPM. Output beats are the least-squares grid t = 0.2976 + k * 0.461542 s (detections deviate 7.1 ms rms, max 29 ms), phase-shifted -5.0 ms to the drum-stem attacks. All-In-One (MLX) agrees: beats F=0.998 (mean offset -5.4 ms), downbeats F=0.996; downbeat phase 100% consistent. The grid covers the detected range 0.30-207.53 s; the music stops at ~207.3 s (silence after 208 s)."
+ },
+ "beats": [
+  0.298,
+  0.759,
+  1.221,
+  1.682,
+  2.144,
+  2.605,
+  3.067,
+  3.528,
+  3.99,
+  4.451,
+  4.913,
+  5.375,
+  5.836,
+  6.298,
+  6.759,
+  7.221,
+  7.682,
+  8.144,
+  8.605,
+  9.067,
+  9.528,
+  9.99,
+  10.451,
+  10.913,
+  11.375,
+  11.836,
+  12.298,
+  12.759,
+  13.221,
+  13.682,
+  14.144,
+  14.605,
+  15.067,
+  15.528,
+  15.99,
+  16.452,
+  16.913,
+  17.375,
+  17.836,
+  18.298,
+  18.759,
+  19.221,
+  19.682,
+  20.144,
+  20.605,
+  21.067,
+  21.529,
+  21.99,
+  22.452,
+  22.913,
+  23.375,
+  23.836,
+  24.298,
+  24.759,
+  25.221,
+  25.682,
+  26.144,
+  26.605,
+  27.067,
+  27.529,
+  27.99,
+  28.452,
+  28.913,
+  29.375,
+  29.836,
+  30.298,
+  30.759,
+  31.221,
+  31.682,
+  32.144,
+  32.606,
+  33.067,
+  33.529,
+  33.99,
+  34.452,
+  34.913,
+  35.375,
+  35.836,
+  36.298,
+  36.759,
+  37.221,
+  37.682,
+  38.144,
+  38.606,
+  39.067,
+  39.529,
+  39.99,
+  40.452,
+  40.913,
+  41.375,
+  41.836,
+  42.298,
+  42.759,
+  43.221,
+  43.683,
+  44.144,
+  44.606,
+  45.067,
+  45.529,
+  45.99,
+  46.452,
+  46.913,
+  47.375,
+  47.836,
+  48.298,
+  48.759,
+  49.221,
+  49.683,
+  50.144,
+  50.606,
+  51.067,
+  51.529,
+  51.99,
+  52.452,
+  52.913,
+  53.375,
+  53.836,
+  54.298,
+  54.76,
+  55.221,
+  55.683,
+  56.144,
+  56.606,
+  57.067,
+  57.529,
+  57.99,
+  58.452,
+  58.913,
+  59.375,
+  59.836,
+  60.298,
+  60.76,
+  61.221,
+  61.683,
+  62.144,
+  62.606,
+  63.067,
+  63.529,
+  63.99,
+  64.452,
+  64.913,
+  65.375,
+  65.837,
+  66.298,
+  66.76,
+  67.221,
+  67.683,
+  68.144,
+  68.606,
+  69.067,
+  69.529,
+  69.99,
+  70.452,
+  70.914,
+  71.375,
+  71.837,
+  72.298,
+  72.76,
+  73.221,
+  73.683,
+  74.144,
+  74.606,
+  75.067,
+  75.529,
+  75.99,
+  76.452,
+  76.914,
+  77.375,
+  77.837,
+  78.298,
+  78.76,
+  79.221,
+  79.683,
+  80.144,
+  80.606,
+  81.067,
+  81.529,
+  81.991,
+  82.452,
+  82.914,
+  83.375,
+  83.837,
+  84.298,
+  84.76,
+  85.221,
+  85.683,
+  86.144,
+  86.606,
+  87.067,
+  87.529,
+  87.991,
+  88.452,
+  88.914,
+  89.375,
+  89.837,
+  90.298,
+  90.76,
+  91.221,
+  91.683,
+  92.144,
+  92.606,
+  93.068,
+  93.529,
+  93.991,
+  94.452,
+  94.914,
+  95.375,
+  95.837,
+  96.298,
+  96.76,
+  97.221,
+  97.683,
+  98.144,
+  98.606,
+  99.068,
+  99.529,
+  99.991,
+  100.452,
+  100.914,
+  101.375,
+  101.837,
+  102.298,
+  102.76,
+  103.221,
+  103.683,
+  104.145,
+  104.606,
+  105.068,
+  105.529,
+  105.991,
+  106.452,
+  106.914,
+  107.375,
+  107.837,
+  108.298,
+  108.76,
+  109.221,
+  109.683,
+  110.145,
+  110.606,
+  111.068,
+  111.529,
+  111.991,
+  112.452,
+  112.914,
+  113.375,
+  113.837,
+  114.298,
+  114.76,
+  115.222,
+  115.683,
+  116.145,
+  116.606,
+  117.068,
+  117.529,
+  117.991,
+  118.452,
+  118.914,
+  119.375,
+  119.837,
+  120.298,
+  120.76,
+  121.222,
+  121.683,
+  122.145,
+  122.606,
+  123.068,
+  123.529,
+  123.991,
+  124.452,
+  124.914,
+  125.375,
+  125.837,
+  126.299,
+  126.76,
+  127.222,
+  127.683,
+  128.145,
+  128.606,
+  129.068,
+  129.529,
+  129.991,
+  130.452,
+  130.914,
+  131.376,
+  131.837,
+  132.299,
+  132.76,
+  133.222,
+  133.683,
+  134.145,
+  134.606,
+  135.068,
+  135.529,
+  135.991,
+  136.452,
+  136.914,
+  137.376,
+  137.837,
+  138.299,
+  138.76,
+  139.222,
+  139.683,
+  140.145,
+  140.606,
+  141.068,
+  141.529,
+  141.991,
+  142.453,
+  142.914,
+  143.376,
+  143.837,
+  144.299,
+  144.76,
+  145.222,
+  145.683,
+  146.145,
+  146.606,
+  147.068,
+  147.529,
+  147.991,
+  148.453,
+  148.914,
+  149.376,
+  149.837,
+  150.299,
+  150.76,
+  151.222,
+  151.683,
+  152.145,
+  152.606,
+  153.068,
+  153.53,
+  153.991,
+  154.453,
+  154.914,
+  155.376,
+  155.837,
+  156.299,
+  156.76,
+  157.222,
+  157.683,
+  158.145,
+  158.606,
+  159.068,
+  159.53,
+  159.991,
+  160.453,
+  160.914,
+  161.376,
+  161.837,
+  162.299,
+  162.76,
+  163.222,
+  163.683,
+  164.145,
+  164.607,
+  165.068,
+  165.53,
+  165.991,
+  166.453,
+  166.914,
+  167.376,
+  167.837,
+  168.299,
+  168.76,
+  169.222,
+  169.683,
+  170.145,
+  170.607,
+  171.068,
+  171.53,
+  171.991,
+  172.453,
+  172.914,
+  173.376,
+  173.837,
+  174.299,
+  174.76,
+  175.222,
+  175.684,
+  176.145,
+  176.607,
+  177.068,
+  177.53,
+  177.991,
+  178.453,
+  178.914,
+  179.376,
+  179.837,
+  180.299,
+  180.761,
+  181.222,
+  181.684,
+  182.145,
+  182.607,
+  183.068,
+  183.53,
+  183.991,
+  184.453,
+  184.914,
+  185.376,
+  185.837,
+  186.299,
+  186.761,
+  187.222,
+  187.684,
+  188.145,
+  188.607,
+  189.068,
+  189.53,
+  189.991,
+  190.453,
+  190.914,
+  191.376,
+  191.838,
+  192.299,
+  192.761,
+  193.222,
+  193.684,
+  194.145,
+  194.607,
+  195.068,
+  195.53,
+  195.991,
+  196.453,
+  196.914,
+  197.376,
+  197.838,
+  198.299,
+  198.761,
+  199.222,
+  199.684,
+  200.145,
+  200.607,
+  201.068,
+  201.53,
+  201.991,
+  202.453,
+  202.915,
+  203.376,
+  203.838,
+  204.299,
+  204.761,
+  205.222,
+  205.684,
+  206.145,
+  206.607,
+  207.068,
+  207.53
+ ],
+ "downbeats": [
+  0.298,
+  2.144,
+  3.99,
+  5.836,
+  7.682,
+  9.528,
+  11.375,
+  13.221,
+  15.067,
+  16.913,
+  18.759,
+  20.605,
+  22.452,
+  24.298,
+  26.144,
+  27.99,
+  29.836,
+  31.682,
+  33.529,
+  35.375,
+  37.221,
+  39.067,
+  40.913,
+  42.759,
+  44.606,
+  46.452,
+  48.298,
+  50.144,
+  51.99,
+  53.836,
+  55.683,
+  57.529,
+  59.375,
+  61.221,
+  63.067,
+  64.913,
+  66.76,
+  68.606,
+  70.452,
+  72.298,
+  74.144,
+  75.99,
+  77.837,
+  79.683,
+  81.529,
+  83.375,
+  85.221,
+  87.067,
+  88.914,
+  90.76,
+  92.606,
+  94.452,
+  96.298,
+  98.144,
+  99.991,
+  101.837,
+  103.683,
+  105.529,
+  107.375,
+  109.221,
+  111.068,
+  112.914,
+  114.76,
+  116.606,
+  118.452,
+  120.298,
+  122.145,
+  123.991,
+  125.837,
+  127.683,
+  129.529,
+  131.376,
+  133.222,
+  135.068,
+  136.914,
+  138.76,
+  140.606,
+  142.453,
+  144.299,
+  146.145,
+  147.991,
+  149.837,
+  151.683,
+  153.53,
+  155.376,
+  157.222,
+  159.068,
+  160.914,
+  162.76,
+  164.607,
+  166.453,
+  168.299,
+  170.145,
+  171.991,
+  173.837,
+  175.684,
+  177.53,
+  179.376,
+  181.222,
+  183.068,
+  184.914,
+  186.761,
+  188.607,
+  190.453,
+  192.299,
+  194.145,
+  195.991,
+  197.838,
+  199.684,
+  201.53,
+  203.376,
+  205.222,
+  207.068
+ ],
+ "beatPos": [
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2,
+  3,
+  4,
+  1,
+  2
+ ],
+ "sections": [
+  {
+   "id": "intro",
+   "label": "intro",
+   "start": 0.0,
+   "end": 15.067,
+   "notes": "vocal intro over the groove: 'Switch on the power line' .. 'SIMULATION' (pickup before the first downbeat)"
+  },
+  {
+   "id": "inst1",
+   "label": "inst",
+   "start": 15.067,
+   "end": 29.836,
+   "notes": "full-band drop after 'SIMULATION'; the LRC title line 'world.execute(me);' sits here but is not sung"
+  },
+  {
+   "id": "v1",
+   "label": "verse",
+   "start": 29.836,
+   "end": 44.606,
+   "notes": "verse 1: 'If I'm a set of points' .. 'LIMITATIONS'"
+  },
+  {
+   "id": "pre1",
+   "label": "prechorus",
+   "start": 44.606,
+   "end": 59.375,
+   "notes": "pre-chorus 1: 'Switch my current' .. 'So deeply so deeply'"
+  },
+  {
+   "id": "c1",
+   "label": "chorus",
+   "start": 59.375,
+   "end": 74.144,
+   "notes": "chorus 1: 'If I can' .. 'SIMULATION'"
+  },
+  {
+   "id": "v2",
+   "label": "verse",
+   "start": 74.144,
+   "end": 88.914,
+   "notes": "verse 2: 'If I'm an eggplant' .. 'EXISTENCE'"
+  },
+  {
+   "id": "pre2",
+   "label": "prechorus",
+   "start": 88.914,
+   "end": 103.683,
+   "notes": "pre-chorus 2: 'Switch my gender' .. 'The trance the trance'"
+  },
+  {
+   "id": "c2",
+   "label": "chorus",
+   "start": 103.683,
+   "end": 118.452,
+   "notes": "chorus 2: 'If I can' .. 'ISOLATION'"
+  },
+  {
+   "id": "c2x",
+   "label": "chorus",
+   "start": 118.452,
+   "end": 125.837,
+   "notes": "chorus 2 extension (4 bars): 'If I can erase' .. 'DISHEARTENED'"
+  },
+  {
+   "id": "bridge",
+   "label": "bridge",
+   "start": 125.837,
+   "end": 133.222,
+   "notes": "4 bars of long notes: 'Challenging your god' .. 'ILLEGAL ARGUMENTS'"
+  },
+  {
+   "id": "inst2",
+   "label": "inst",
+   "start": 133.222,
+   "end": 147.991,
+   "notes": "instrumental break (no vocals)"
+  },
+  {
+   "id": "chant",
+   "label": "chant",
+   "start": 147.991,
+   "end": 162.76,
+   "notes": "12x 'EXECUTION' every 2 beats, then the count EIN..LIU on beats and 'EXECUTION'"
+  },
+  {
+   "id": "c3",
+   "label": "chorus",
+   "start": 162.76,
+   "end": 177.53,
+   "notes": "chorus 3: 'If I can give them all the EXECUTION' .. 'We are trapped ah'"
+  },
+  {
+   "id": "love",
+   "label": "chorus",
+   "start": 177.53,
+   "end": 192.299,
+   "notes": "final climax: 'I've studied' .. 'Trapped in LO-O-OVE'"
+  },
+  {
+   "id": "outro",
+   "label": "outro",
+   "start": 192.299,
+   "end": 207.068,
+   "notes": "instrumental outro; one last 'EXECUTION' near the end"
+  },
+  {
+   "id": "end",
+   "label": "end",
+   "start": 207.068,
+   "end": 211.907,
+   "notes": "final hit decays; silence from ~208 s to the end of the file"
+  }
+ ],
+ "lines": [
+  {
+   "i": 0,
+   "text": "Switch on the power line",
+   "lrcStart": 0.1,
+   "start": 0.242,
+   "end": 1.91,
+   "caps": false,
+   "words": [
+    {
+     "text": "Switch",
+     "start": 0.242,
+     "end": 0.72,
+     "score": 0.706,
+     "manual": false
+    },
+    {
+     "text": "on",
+     "start": 0.842,
+     "end": 1.05,
+     "score": 0.978,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 1.083,
+     "end": 1.18,
+     "score": 0.968,
+     "manual": false
+    },
+    {
+     "text": "power",
+     "start": 1.222,
+     "end": 1.57,
+     "score": 0.968,
+     "manual": false
+    },
+    {
+     "text": "line",
+     "start": 1.603,
+     "end": 1.91,
+     "score": 0.984,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "Remember to put on",
+   "lrcStart": 1.74,
+   "start": 1.942,
+   "end": 3.27,
+   "caps": false,
+   "words": [
+    {
+     "text": "Remember",
+     "start": 1.942,
+     "end": 2.55,
+     "score": 0.997,
+     "manual": false
+    },
+    {
+     "text": "to",
+     "start": 2.583,
+     "end": 2.73,
+     "score": 0.977,
+     "manual": false
+    },
+    {
+     "text": "put",
+     "start": 2.803,
+     "end": 3.062,
+     "score": 0.537,
+     "manual": false
+    },
+    {
+     "text": "on",
+     "start": 3.143,
+     "end": 3.27,
+     "score": 0.77,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "PROTECTION",
+   "lrcStart": 2.92,
+   "start": 3.303,
+   "end": 3.99,
+   "caps": true,
+   "words": [
+    {
+     "text": "PROTECTION",
+     "start": 3.303,
+     "end": 3.99,
+     "score": 0.957,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Lay down your pieces",
+   "lrcStart": 3.873,
+   "start": 4.023,
+   "end": 5.63,
+   "caps": false,
+   "words": [
+    {
+     "text": "Lay",
+     "start": 4.023,
+     "end": 4.27,
+     "score": 0.64,
+     "manual": false
+    },
+    {
+     "text": "down",
+     "start": 4.423,
+     "end": 4.71,
+     "score": 0.882,
+     "manual": false
+    },
+    {
+     "text": "your",
+     "start": 4.743,
+     "end": 4.863,
+     "score": 0.893,
+     "manual": false
+    },
+    {
+     "text": "pieces",
+     "start": 4.903,
+     "end": 5.63,
+     "score": 0.558,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "And let's begin",
+   "lrcStart": 5.491,
+   "start": 5.663,
+   "end": 6.53,
+   "caps": false,
+   "words": [
+    {
+     "text": "And",
+     "start": 5.663,
+     "end": 5.79,
+     "score": 0.341,
+     "manual": false
+    },
+    {
+     "text": "let's",
+     "start": 5.823,
+     "end": 6.01,
+     "score": 0.359,
+     "manual": false
+    },
+    {
+     "text": "begin",
+     "start": 6.043,
+     "end": 6.53,
+     "score": 0.539,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "OBJECT CREATION",
+   "lrcStart": 6.38,
+   "start": 6.563,
+   "end": 7.63,
+   "caps": true,
+   "words": [
+    {
+     "text": "OBJECT",
+     "start": 6.563,
+     "end": 6.883,
+     "score": 0.626,
+     "manual": false
+    },
+    {
+     "text": "CREATION",
+     "start": 6.903,
+     "end": 7.63,
+     "score": 0.955,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "Fill in my data parameters",
+   "lrcStart": 7.446,
+   "start": 7.663,
+   "end": 10.25,
+   "caps": false,
+   "words": [
+    {
+     "text": "Fill",
+     "start": 7.663,
+     "end": 7.95,
+     "score": 0.524,
+     "manual": false
+    },
+    {
+     "text": "in",
+     "start": 8.182,
+     "end": 8.41,
+     "score": 0.908,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 8.442,
+     "end": 8.57,
+     "score": 0.653,
+     "manual": false
+    },
+    {
+     "text": "data",
+     "start": 8.602,
+     "end": 9.17,
+     "score": 0.832,
+     "manual": false
+    },
+    {
+     "text": "parameters",
+     "start": 9.262,
+     "end": 10.25,
+     "score": 0.694,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "INITIALIZATION",
+   "lrcStart": 10.091,
+   "start": 10.282,
+   "end": 11.31,
+   "caps": true,
+   "words": [
+    {
+     "text": "INITIALIZATION",
+     "start": 10.282,
+     "end": 11.31,
+     "score": 0.944,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "Set up our new world",
+   "lrcStart": 11.095,
+   "start": 11.342,
+   "end": 12.99,
+   "caps": false,
+   "words": [
+    {
+     "text": "Set",
+     "start": 11.342,
+     "end": 11.582,
+     "score": 0.961,
+     "manual": false
+    },
+    {
+     "text": "up",
+     "start": 11.883,
+     "end": 12.043,
+     "score": 0.934,
+     "manual": false
+    },
+    {
+     "text": "our",
+     "start": 12.203,
+     "end": 12.27,
+     "score": 0.068,
+     "manual": false
+    },
+    {
+     "text": "new",
+     "start": 12.303,
+     "end": 12.57,
+     "score": 0.358,
+     "manual": false
+    },
+    {
+     "text": "world",
+     "start": 12.602,
+     "end": 12.99,
+     "score": 0.393,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "And let's begin the",
+   "lrcStart": 12.906,
+   "start": 13.022,
+   "end": 14.09,
+   "caps": false,
+   "words": [
+    {
+     "text": "And",
+     "start": 13.022,
+     "end": 13.19,
+     "score": 0.421,
+     "manual": false
+    },
+    {
+     "text": "let's",
+     "start": 13.223,
+     "end": 13.402,
+     "score": 0.449,
+     "manual": false
+    },
+    {
+     "text": "begin",
+     "start": 13.422,
+     "end": 13.87,
+     "score": 0.507,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 13.902,
+     "end": 14.09,
+     "score": 0.334,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "SIMULATION",
+   "lrcStart": 13.891,
+   "start": 14.123,
+   "end": 15.1,
+   "caps": true,
+   "words": [
+    {
+     "text": "SIMULATION",
+     "start": 14.123,
+     "end": 15.1,
+     "score": 0.72,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "world.execute(me);",
+   "lrcStart": 16.0,
+   "start": 16.0,
+   "end": 17.846,
+   "caps": false,
+   "words": [
+    {
+     "text": "world.execute(me);",
+     "start": 16.0,
+     "end": 17.846,
+     "score": null,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "If I'm a set of points",
+   "lrcStart": 29.709,
+   "start": 29.903,
+   "end": 31.41,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 29.903,
+     "end": 30.09,
+     "score": 0.328,
+     "manual": false
+    },
+    {
+     "text": "I'm",
+     "start": 30.503,
+     "end": 30.59,
+     "score": 0.213,
+     "manual": false
+    },
+    {
+     "text": "a",
+     "start": 30.623,
+     "end": 30.67,
+     "score": 0.178,
+     "manual": false
+    },
+    {
+     "text": "set",
+     "start": 30.703,
+     "end": 30.89,
+     "score": 0.164,
+     "manual": false
+    },
+    {
+     "text": "of",
+     "start": 30.923,
+     "end": 31.003,
+     "score": 0.001,
+     "manual": false
+    },
+    {
+     "text": "points",
+     "start": 31.063,
+     "end": 31.41,
+     "score": 0.217,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "Then I will give you my",
+   "lrcStart": 31.116,
+   "start": 31.443,
+   "end": 32.83,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 31.443,
+     "end": 31.79,
+     "score": 0.268,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 31.823,
+     "end": 31.87,
+     "score": 0.433,
+     "manual": false
+    },
+    {
+     "text": "will",
+     "start": 31.903,
+     "end": 32.08,
+     "score": 0.074,
+     "manual": false
+    },
+    {
+     "text": "give",
+     "start": 32.122,
+     "end": 32.39,
+     "score": 0.225,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 32.422,
+     "end": 32.55,
+     "score": 0.146,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 32.582,
+     "end": 32.83,
+     "score": 0.188,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "DIMENSION",
+   "lrcStart": 32.682,
+   "start": 32.862,
+   "end": 33.59,
+   "caps": true,
+   "words": [
+    {
+     "text": "DIMENSION",
+     "start": 32.862,
+     "end": 33.59,
+     "score": 0.731,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "text": "If I'm a circle",
+   "lrcStart": 33.412,
+   "start": 33.622,
+   "end": 35.09,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 33.622,
+     "end": 34.15,
+     "score": 0.784,
+     "manual": false
+    },
+    {
+     "text": "I'm",
+     "start": 34.182,
+     "end": 34.29,
+     "score": 0.589,
+     "manual": false
+    },
+    {
+     "text": "a",
+     "start": 34.322,
+     "end": 34.37,
+     "score": 0.194,
+     "manual": false
+    },
+    {
+     "text": "circle",
+     "start": 34.402,
+     "end": 35.09,
+     "score": 0.364,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "text": "Then I will give you my",
+   "lrcStart": 34.646,
+   "start": 35.122,
+   "end": 36.49,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 35.122,
+     "end": 35.51,
+     "score": 0.451,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 35.542,
+     "end": 35.572,
+     "score": 0.757,
+     "manual": false
+    },
+    {
+     "text": "will",
+     "start": 35.602,
+     "end": 35.79,
+     "score": 0.153,
+     "manual": false
+    },
+    {
+     "text": "give",
+     "start": 35.822,
+     "end": 36.09,
+     "score": 0.591,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 36.122,
+     "end": 36.25,
+     "score": 0.49,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 36.282,
+     "end": 36.49,
+     "score": 0.65,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "text": "CIRCUMFERENCE",
+   "lrcStart": 36.287,
+   "start": 36.523,
+   "end": 37.27,
+   "caps": true,
+   "words": [
+    {
+     "text": "CIRCUMFERENCE",
+     "start": 36.523,
+     "end": 37.27,
+     "score": 0.371,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "text": "If I'm a sine wave",
+   "lrcStart": 37.067,
+   "start": 37.303,
+   "end": 38.803,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 37.303,
+     "end": 37.83,
+     "score": 0.491,
+     "manual": false
+    },
+    {
+     "text": "I'm",
+     "start": 37.862,
+     "end": 37.983,
+     "score": 0.562,
+     "manual": false
+    },
+    {
+     "text": "a",
+     "start": 38.002,
+     "end": 38.05,
+     "score": 0.352,
+     "manual": false
+    },
+    {
+     "text": "sine",
+     "start": 38.082,
+     "end": 38.47,
+     "score": 0.536,
+     "manual": false
+    },
+    {
+     "text": "wave",
+     "start": 38.502,
+     "end": 38.803,
+     "score": 0.704,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "text": "Then you can sit on all my",
+   "lrcStart": 38.596,
+   "start": 38.822,
+   "end": 40.41,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 38.822,
+     "end": 39.05,
+     "score": 0.832,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 39.082,
+     "end": 39.22,
+     "score": 0.895,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 39.262,
+     "end": 39.45,
+     "score": 0.956,
+     "manual": false
+    },
+    {
+     "text": "sit",
+     "start": 39.483,
+     "end": 39.81,
+     "score": 0.328,
+     "manual": false
+    },
+    {
+     "text": "on",
+     "start": 39.843,
+     "end": 40.03,
+     "score": 0.584,
+     "manual": false
+    },
+    {
+     "text": "all",
+     "start": 40.062,
+     "end": 40.17,
+     "score": 0.16,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 40.203,
+     "end": 40.41,
+     "score": 0.879,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "text": "TANGENTS",
+   "lrcStart": 40.049,
+   "start": 40.442,
+   "end": 40.93,
+   "caps": true,
+   "words": [
+    {
+     "text": "TANGENTS",
+     "start": 40.442,
+     "end": 40.93,
+     "score": 0.282,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "text": "If I approach infinity",
+   "lrcStart": 40.706,
+   "start": 40.962,
+   "end": 42.46,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 40.962,
+     "end": 41.21,
+     "score": 0.327,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 41.242,
+     "end": 41.273,
+     "score": 0.797,
+     "manual": false
+    },
+    {
+     "text": "approach",
+     "start": 41.273,
+     "end": 41.61,
+     "score": 0.214,
+     "manual": false
+    },
+    {
+     "text": "infinity",
+     "start": 41.642,
+     "end": 42.46,
+     "score": 0.835,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "text": "Then you can be my",
+   "lrcStart": 42.346,
+   "start": 42.502,
+   "end": 43.67,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 42.502,
+     "end": 42.73,
+     "score": 0.837,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 42.762,
+     "end": 42.9,
+     "score": 0.935,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 42.942,
+     "end": 43.17,
+     "score": 0.992,
+     "manual": false
+    },
+    {
+     "text": "be",
+     "start": 43.203,
+     "end": 43.41,
+     "score": 0.985,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 43.442,
+     "end": 43.67,
+     "score": 0.974,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "text": "LIMITATIONS",
+   "lrcStart": 43.507,
+   "start": 43.703,
+   "end": 44.523,
+   "caps": true,
+   "words": [
+    {
+     "text": "LIMITATIONS",
+     "start": 43.703,
+     "end": 44.523,
+     "score": 0.702,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "text": "Switch my current",
+   "lrcStart": 44.452,
+   "start": 44.542,
+   "end": 46.002,
+   "caps": false,
+   "words": [
+    {
+     "text": "Switch",
+     "start": 44.542,
+     "end": 45.02,
+     "score": 0.419,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 45.082,
+     "end": 45.41,
+     "score": 0.979,
+     "manual": false
+    },
+    {
+     "text": "current",
+     "start": 45.462,
+     "end": 46.002,
+     "score": 0.859,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "text": "To AC to DC",
+   "lrcStart": 45.85,
+   "start": 46.203,
+   "end": 47.85,
+   "caps": false,
+   "words": [
+    {
+     "text": "To",
+     "start": 46.203,
+     "end": 46.49,
+     "score": 0.633,
+     "manual": false
+    },
+    {
+     "text": "AC",
+     "start": 46.523,
+     "end": 46.99,
+     "score": 0.263,
+     "manual": false
+    },
+    {
+     "text": "to",
+     "start": 47.102,
+     "end": 47.33,
+     "score": 0.709,
+     "manual": false
+    },
+    {
+     "text": "DC",
+     "start": 47.362,
+     "end": 47.85,
+     "score": 0.094,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "text": "And then blind my vision",
+   "lrcStart": 47.672,
+   "start": 47.883,
+   "end": 49.66,
+   "caps": false,
+   "words": [
+    {
+     "text": "And",
+     "start": 47.883,
+     "end": 48.023,
+     "score": 0.447,
+     "manual": false
+    },
+    {
+     "text": "then",
+     "start": 48.042,
+     "end": 48.25,
+     "score": 0.367,
+     "manual": false
+    },
+    {
+     "text": "blind",
+     "start": 48.282,
+     "end": 48.71,
+     "score": 0.62,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 48.742,
+     "end": 49.14,
+     "score": 0.972,
+     "manual": false
+    },
+    {
+     "text": "vision",
+     "start": 49.203,
+     "end": 49.66,
+     "score": 0.498,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "text": "So dizzy so dizzy",
+   "lrcStart": 49.534,
+   "start": 49.862,
+   "end": 51.59,
+   "caps": false,
+   "words": [
+    {
+     "text": "So",
+     "start": 49.862,
+     "end": 50.09,
+     "score": 0.877,
+     "manual": false
+    },
+    {
+     "text": "dizzy",
+     "start": 50.123,
+     "end": 50.6,
+     "score": 0.087,
+     "manual": false
+    },
+    {
+     "text": "so",
+     "start": 50.803,
+     "end": 51.01,
+     "score": 0.954,
+     "manual": false
+    },
+    {
+     "text": "dizzy",
+     "start": 51.042,
+     "end": 51.59,
+     "score": 0.098,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "text": "Oh we can travel",
+   "lrcStart": 51.363,
+   "start": 51.623,
+   "end": 53.33,
+   "caps": false,
+   "words": [
+    {
+     "text": "Oh",
+     "start": 51.623,
+     "end": 51.95,
+     "score": 0.145,
+     "manual": false
+    },
+    {
+     "text": "we",
+     "start": 51.983,
+     "end": 52.35,
+     "score": 0.698,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 52.383,
+     "end": 52.81,
+     "score": 0.978,
+     "manual": false
+    },
+    {
+     "text": "travel",
+     "start": 52.843,
+     "end": 53.33,
+     "score": 0.734,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "text": "To A.D to B.C",
+   "lrcStart": 53.225,
+   "start": 53.562,
+   "end": 55.27,
+   "caps": false,
+   "words": [
+    {
+     "text": "To",
+     "start": 53.562,
+     "end": 53.89,
+     "score": 0.935,
+     "manual": false
+    },
+    {
+     "text": "A.D",
+     "start": 53.922,
+     "end": 54.42,
+     "score": 0.45,
+     "manual": false
+    },
+    {
+     "text": "to",
+     "start": 54.483,
+     "end": 54.71,
+     "score": 0.94,
+     "manual": false
+    },
+    {
+     "text": "B.C",
+     "start": 54.742,
+     "end": 55.27,
+     "score": 0.348,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "text": "And we can unite",
+   "lrcStart": 55.083,
+   "start": 55.303,
+   "end": 57.23,
+   "caps": false,
+   "words": [
+    {
+     "text": "And",
+     "start": 55.303,
+     "end": 55.63,
+     "score": 0.364,
+     "manual": false
+    },
+    {
+     "text": "we",
+     "start": 55.663,
+     "end": 56.05,
+     "score": 0.106,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 56.082,
+     "end": 56.63,
+     "score": 0.108,
+     "manual": false
+    },
+    {
+     "text": "unite",
+     "start": 56.663,
+     "end": 57.23,
+     "score": 0.097,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "text": "So deeply so deeply",
+   "lrcStart": 56.916,
+   "start": 57.262,
+   "end": 59.41,
+   "caps": false,
+   "words": [
+    {
+     "text": "So",
+     "start": 57.262,
+     "end": 57.47,
+     "score": 0.05,
+     "manual": false
+    },
+    {
+     "text": "deeply",
+     "start": 57.502,
+     "end": 58.03,
+     "score": 0.014,
+     "manual": false
+    },
+    {
+     "text": "so",
+     "start": 58.163,
+     "end": 58.41,
+     "score": 0.027,
+     "manual": false
+    },
+    {
+     "text": "deeply",
+     "start": 58.442,
+     "end": 59.41,
+     "score": 0.005,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "text": "If I can",
+   "lrcStart": 59.223,
+   "start": 59.442,
+   "end": 60.35,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 59.442,
+     "end": 59.97,
+     "score": 0.001,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 60.002,
+     "end": 60.032,
+     "score": 0.001,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 60.032,
+     "end": 60.35,
+     "score": 0.005,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "text": "If I can give you all the",
+   "lrcStart": 59.687,
+   "start": 60.383,
+   "end": 62.05,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 60.383,
+     "end": 60.85,
+     "score": 0.014,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 60.883,
+     "end": 60.913,
+     "score": 0.006,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 60.942,
+     "end": 61.17,
+     "score": 0.004,
+     "manual": false
+    },
+    {
+     "text": "give",
+     "start": 61.203,
+     "end": 61.483,
+     "score": 0.009,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 61.483,
+     "end": 61.71,
+     "score": 0.002,
+     "manual": false
+    },
+    {
+     "text": "all",
+     "start": 61.742,
+     "end": 61.883,
+     "score": 0.002,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 61.902,
+     "end": 62.05,
+     "score": 0.006,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "text": "STIMULATIONS",
+   "lrcStart": 61.958,
+   "start": 62.082,
+   "end": 63.042,
+   "caps": true,
+   "words": [
+    {
+     "text": "STIMULATIONS",
+     "start": 62.082,
+     "end": 63.042,
+     "score": 0.051,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "text": "Then I can",
+   "lrcStart": 62.589,
+   "start": 63.042,
+   "end": 63.95,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 63.042,
+     "end": 63.55,
+     "score": 0.013,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 63.582,
+     "end": 63.71,
+     "score": 0.03,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 63.742,
+     "end": 63.95,
+     "score": 0.038,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "text": "Then I can be your only",
+   "lrcStart": 63.535,
+   "start": 63.983,
+   "end": 65.77,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 63.983,
+     "end": 64.49,
+     "score": 0.032,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 64.522,
+     "end": 64.63,
+     "score": 0.027,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 64.662,
+     "end": 64.87,
+     "score": 0.089,
+     "manual": false
+    },
+    {
+     "text": "be",
+     "start": 64.903,
+     "end": 65.09,
+     "score": 0.032,
+     "manual": false
+    },
+    {
+     "text": "your",
+     "start": 65.123,
+     "end": 65.47,
+     "score": 0.032,
+     "manual": false
+    },
+    {
+     "text": "only",
+     "start": 65.502,
+     "end": 65.77,
+     "score": 0.109,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "text": "SATISFACTION",
+   "lrcStart": 65.397,
+   "start": 65.802,
+   "end": 66.81,
+   "caps": true,
+   "words": [
+    {
+     "text": "SATISFACTION",
+     "start": 65.802,
+     "end": 66.81,
+     "score": 0.581,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "text": "If I can make you happy",
+   "lrcStart": 66.601,
+   "start": 66.843,
+   "end": 68.71,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 66.843,
+     "end": 67.29,
+     "score": 0.163,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 67.323,
+     "end": 67.39,
+     "score": 0.065,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 67.422,
+     "end": 67.63,
+     "score": 0.038,
+     "manual": false
+    },
+    {
+     "text": "make",
+     "start": 67.662,
+     "end": 67.922,
+     "score": 0.208,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 67.942,
+     "end": 68.07,
+     "score": 0.05,
+     "manual": false
+    },
+    {
+     "text": "happy",
+     "start": 68.102,
+     "end": 68.71,
+     "score": 0.229,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "text": "I will run the",
+   "lrcStart": 68.252,
+   "start": 68.742,
+   "end": 69.55,
+   "caps": false,
+   "words": [
+    {
+     "text": "I",
+     "start": 68.742,
+     "end": 68.79,
+     "score": 0.162,
+     "manual": false
+    },
+    {
+     "text": "will",
+     "start": 68.823,
+     "end": 69.03,
+     "score": 0.029,
+     "manual": false
+    },
+    {
+     "text": "run",
+     "start": 69.062,
+     "end": 69.25,
+     "score": 0.299,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 69.282,
+     "end": 69.55,
+     "score": 0.05,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "text": "EXECUTION",
+   "lrcStart": 69.259,
+   "start": 69.582,
+   "end": 70.41,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 69.582,
+     "end": 70.41,
+     "score": 0.224,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "text": "Though we are trapped",
+   "lrcStart": 70.084,
+   "start": 70.442,
+   "end": 71.87,
+   "caps": false,
+   "words": [
+    {
+     "text": "Though",
+     "start": 70.442,
+     "end": 70.722,
+     "score": 0.03,
+     "manual": false
+    },
+    {
+     "text": "we",
+     "start": 70.722,
+     "end": 71.15,
+     "score": 0.282,
+     "manual": false
+    },
+    {
+     "text": "are",
+     "start": 71.183,
+     "end": 71.31,
+     "score": 0.265,
+     "manual": false
+    },
+    {
+     "text": "trapped",
+     "start": 71.343,
+     "end": 71.87,
+     "score": 0.169,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "text": "In this strange strange",
+   "lrcStart": 71.764,
+   "start": 71.903,
+   "end": 73.17,
+   "caps": false,
+   "words": [
+    {
+     "text": "In",
+     "start": 71.903,
+     "end": 72.03,
+     "score": 0.533,
+     "manual": false
+    },
+    {
+     "text": "this",
+     "start": 72.062,
+     "end": 72.242,
+     "score": 0.383,
+     "manual": false
+    },
+    {
+     "text": "strange",
+     "start": 72.263,
+     "end": 72.67,
+     "score": 0.492,
+     "manual": false
+    },
+    {
+     "text": "strange",
+     "start": 72.703,
+     "end": 73.17,
+     "score": 0.512,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "text": "SIMULATION",
+   "lrcStart": 73.169,
+   "start": 73.203,
+   "end": 74.17,
+   "caps": true,
+   "words": [
+    {
+     "text": "SIMULATION",
+     "start": 73.203,
+     "end": 74.17,
+     "score": 0.17,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "text": "If I'm an eggplant",
+   "lrcStart": 74.045,
+   "start": 74.203,
+   "end": 75.69,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 74.203,
+     "end": 74.79,
+     "score": 0.509,
+     "manual": false
+    },
+    {
+     "text": "I'm",
+     "start": 74.823,
+     "end": 74.963,
+     "score": 0.393,
+     "manual": false
+    },
+    {
+     "text": "an",
+     "start": 74.983,
+     "end": 75.09,
+     "score": 0.659,
+     "manual": false
+    },
+    {
+     "text": "eggplant",
+     "start": 75.123,
+     "end": 75.69,
+     "score": 0.519,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "text": "Then I will give you my",
+   "lrcStart": 75.422,
+   "start": 75.722,
+   "end": 77.21,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 75.722,
+     "end": 76.11,
+     "score": 0.575,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 76.142,
+     "end": 76.19,
+     "score": 0.712,
+     "manual": false
+    },
+    {
+     "text": "will",
+     "start": 76.222,
+     "end": 76.39,
+     "score": 0.251,
+     "manual": false
+    },
+    {
+     "text": "give",
+     "start": 76.422,
+     "end": 76.683,
+     "score": 0.428,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 76.703,
+     "end": 76.87,
+     "score": 0.133,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 76.903,
+     "end": 77.21,
+     "score": 0.457,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "text": "NUTRIENTS",
+   "lrcStart": 76.959,
+   "start": 77.242,
+   "end": 77.89,
+   "caps": true,
+   "words": [
+    {
+     "text": "NUTRIENTS",
+     "start": 77.242,
+     "end": 77.89,
+     "score": 0.421,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "text": "If I'm a tomato",
+   "lrcStart": 77.576,
+   "start": 77.922,
+   "end": 79.38,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 77.922,
+     "end": 78.09,
+     "score": 0.518,
+     "manual": false
+    },
+    {
+     "text": "I'm",
+     "start": 78.502,
+     "end": 78.642,
+     "score": 0.39,
+     "manual": false
+    },
+    {
+     "text": "a",
+     "start": 78.662,
+     "end": 78.71,
+     "score": 0.744,
+     "manual": false
+    },
+    {
+     "text": "tomato",
+     "start": 78.742,
+     "end": 79.38,
+     "score": 0.529,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "text": "Then I will give you",
+   "lrcStart": 79.226,
+   "start": 79.422,
+   "end": 80.63,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 79.422,
+     "end": 79.81,
+     "score": 0.469,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 79.843,
+     "end": 79.873,
+     "score": 0.748,
+     "manual": false
+    },
+    {
+     "text": "will",
+     "start": 79.903,
+     "end": 80.08,
+     "score": 0.207,
+     "manual": false
+    },
+    {
+     "text": "give",
+     "start": 80.123,
+     "end": 80.382,
+     "score": 0.361,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 80.403,
+     "end": 80.63,
+     "score": 0.263,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "text": "ANTIOXIDANTS",
+   "lrcStart": 80.62,
+   "start": 80.662,
+   "end": 81.55,
+   "caps": true,
+   "words": [
+    {
+     "text": "ANTIOXIDANTS",
+     "start": 80.662,
+     "end": 81.55,
+     "score": 0.395,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "text": "If I'm a tabby cat",
+   "lrcStart": 81.351,
+   "start": 81.582,
+   "end": 83.1,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 81.582,
+     "end": 81.94,
+     "score": 0.707,
+     "manual": false
+    },
+    {
+     "text": "I'm",
+     "start": 82.203,
+     "end": 82.31,
+     "score": 0.572,
+     "manual": false
+    },
+    {
+     "text": "a",
+     "start": 82.343,
+     "end": 82.41,
+     "score": 0.146,
+     "manual": false
+    },
+    {
+     "text": "tabby",
+     "start": 82.442,
+     "end": 82.71,
+     "score": 0.476,
+     "manual": false
+    },
+    {
+     "text": "cat",
+     "start": 82.782,
+     "end": 83.1,
+     "score": 0.889,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "text": "Then I will purr for your",
+   "lrcStart": 82.833,
+   "start": 83.142,
+   "end": 84.53,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 83.142,
+     "end": 83.51,
+     "score": 0.722,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 83.543,
+     "end": 83.573,
+     "score": 0.78,
+     "manual": false
+    },
+    {
+     "text": "will",
+     "start": 83.603,
+     "end": 83.75,
+     "score": 0.06,
+     "manual": false
+    },
+    {
+     "text": "purr",
+     "start": 83.802,
+     "end": 83.99,
+     "score": 0.439,
+     "manual": false
+    },
+    {
+     "text": "for",
+     "start": 84.022,
+     "end": 84.27,
+     "score": 0.913,
+     "manual": false
+    },
+    {
+     "text": "your",
+     "start": 84.302,
+     "end": 84.53,
+     "score": 0.664,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "text": "ENJOYMENT",
+   "lrcStart": 84.268,
+   "start": 84.562,
+   "end": 85.27,
+   "caps": true,
+   "words": [
+    {
+     "text": "ENJOYMENT",
+     "start": 84.562,
+     "end": 85.27,
+     "score": 0.861,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "text": "If I'm the only god",
+   "lrcStart": 85.078,
+   "start": 85.302,
+   "end": 86.742,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 85.302,
+     "end": 85.63,
+     "score": 0.898,
+     "manual": false
+    },
+    {
+     "text": "I'm",
+     "start": 85.882,
+     "end": 85.99,
+     "score": 0.612,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 86.022,
+     "end": 86.13,
+     "score": 0.489,
+     "manual": false
+    },
+    {
+     "text": "only",
+     "start": 86.162,
+     "end": 86.43,
+     "score": 0.889,
+     "manual": false
+    },
+    {
+     "text": "god",
+     "start": 86.463,
+     "end": 86.742,
+     "score": 0.827,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "text": "Then you're the proof of my",
+   "lrcStart": 86.538,
+   "start": 86.823,
+   "end": 88.25,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 86.823,
+     "end": 87.03,
+     "score": 0.621,
+     "manual": false
+    },
+    {
+     "text": "you're",
+     "start": 87.062,
+     "end": 87.263,
+     "score": 0.477,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 87.263,
+     "end": 87.4,
+     "score": 0.844,
+     "manual": false
+    },
+    {
+     "text": "proof",
+     "start": 87.463,
+     "end": 87.77,
+     "score": 0.956,
+     "manual": false
+    },
+    {
+     "text": "of",
+     "start": 87.802,
+     "end": 87.922,
+     "score": 0.95,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 88.002,
+     "end": 88.25,
+     "score": 0.929,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "text": "EXISTENCE",
+   "lrcStart": 87.922,
+   "start": 88.282,
+   "end": 88.882,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXISTENCE",
+     "start": 88.282,
+     "end": 88.882,
+     "score": 0.545,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "text": "Switch my gender",
+   "lrcStart": 88.587,
+   "start": 88.882,
+   "end": 90.29,
+   "caps": false,
+   "words": [
+    {
+     "text": "Switch",
+     "start": 88.882,
+     "end": 89.29,
+     "score": 0.351,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 89.382,
+     "end": 89.7,
+     "score": 0.935,
+     "manual": false
+    },
+    {
+     "text": "gender",
+     "start": 89.763,
+     "end": 90.29,
+     "score": 0.65,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "text": "To F to M",
+   "lrcStart": 90.197,
+   "start": 90.463,
+   "end": 92.17,
+   "caps": false,
+   "words": [
+    {
+     "text": "To",
+     "start": 90.463,
+     "end": 90.83,
+     "score": 0.764,
+     "manual": false
+    },
+    {
+     "text": "F",
+     "start": 90.862,
+     "end": 91.39,
+     "score": 0.264,
+     "manual": false
+    },
+    {
+     "text": "to",
+     "start": 91.422,
+     "end": 91.71,
+     "score": 0.62,
+     "manual": false
+    },
+    {
+     "text": "M",
+     "start": 91.742,
+     "end": 92.17,
+     "score": 0.512,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "text": "And then do whatever",
+   "lrcStart": 92.015,
+   "start": 92.203,
+   "end": 94.0,
+   "caps": false,
+   "words": [
+    {
+     "text": "And",
+     "start": 92.203,
+     "end": 92.57,
+     "score": 0.467,
+     "manual": false
+    },
+    {
+     "text": "then",
+     "start": 92.603,
+     "end": 92.633,
+     "score": 0.247,
+     "manual": false
+    },
+    {
+     "text": "do",
+     "start": 92.633,
+     "end": 93.03,
+     "score": 0.114,
+     "manual": false
+    },
+    {
+     "text": "whatever",
+     "start": 93.062,
+     "end": 94.0,
+     "score": 0.352,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "text": "From AM to PM",
+   "lrcStart": 93.953,
+   "start": 94.103,
+   "end": 95.89,
+   "caps": false,
+   "words": [
+    {
+     "text": "From",
+     "start": 94.103,
+     "end": 94.49,
+     "score": 0.414,
+     "manual": false
+    },
+    {
+     "text": "AM",
+     "start": 94.522,
+     "end": 95.09,
+     "score": 0.113,
+     "manual": false
+    },
+    {
+     "text": "to",
+     "start": 95.123,
+     "end": 95.33,
+     "score": 0.393,
+     "manual": false
+    },
+    {
+     "text": "PM",
+     "start": 95.362,
+     "end": 95.89,
+     "score": 0.273,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "text": "Oh switch my role",
+   "lrcStart": 95.465,
+   "start": 95.922,
+   "end": 97.65,
+   "caps": false,
+   "words": [
+    {
+     "text": "Oh",
+     "start": 95.922,
+     "end": 96.21,
+     "score": 0.231,
+     "manual": false
+    },
+    {
+     "text": "switch",
+     "start": 96.243,
+     "end": 96.71,
+     "score": 0.344,
+     "manual": false
+    },
+    {
+     "text": "my",
+     "start": 96.763,
+     "end": 97.17,
+     "score": 0.701,
+     "manual": false
+    },
+    {
+     "text": "role",
+     "start": 97.203,
+     "end": 97.65,
+     "score": 0.444,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "text": "To S to M",
+   "lrcStart": 97.739,
+   "start": 97.903,
+   "end": 99.45,
+   "caps": false,
+   "words": [
+    {
+     "text": "To",
+     "start": 97.903,
+     "end": 98.19,
+     "score": 0.574,
+     "manual": false
+    },
+    {
+     "text": "S",
+     "start": 98.222,
+     "end": 98.79,
+     "score": 0.284,
+     "manual": false
+    },
+    {
+     "text": "to",
+     "start": 98.823,
+     "end": 99.11,
+     "score": 0.232,
+     "manual": false
+    },
+    {
+     "text": "M",
+     "start": 99.142,
+     "end": 99.45,
+     "score": 0.189,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "text": "So we can enter",
+   "lrcStart": 99.349,
+   "start": 99.483,
+   "end": 101.37,
+   "caps": false,
+   "words": [
+    {
+     "text": "So",
+     "start": 99.483,
+     "end": 99.89,
+     "score": 0.174,
+     "manual": false
+    },
+    {
+     "text": "we",
+     "start": 99.983,
+     "end": 100.37,
+     "score": 0.014,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 100.403,
+     "end": 100.79,
+     "score": 0.033,
+     "manual": false
+    },
+    {
+     "text": "enter",
+     "start": 100.963,
+     "end": 101.37,
+     "score": 0.148,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "text": "The trance the trance",
+   "lrcStart": 101.474,
+   "start": 101.562,
+   "end": 103.562,
+   "caps": false,
+   "words": [
+    {
+     "text": "The",
+     "start": 101.562,
+     "end": 101.73,
+     "score": 0.078,
+     "manual": false
+    },
+    {
+     "text": "trance",
+     "start": 101.763,
+     "end": 102.483,
+     "score": 0.023,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 102.483,
+     "end": 102.65,
+     "score": 0.052,
+     "manual": false
+    },
+    {
+     "text": "trance",
+     "start": 102.683,
+     "end": 103.562,
+     "score": 0.029,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "text": "If I can",
+   "lrcStart": 103.489,
+   "start": 103.743,
+   "end": 104.65,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 103.743,
+     "end": 104.25,
+     "score": 0.116,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 104.282,
+     "end": 104.33,
+     "score": 0.283,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 104.362,
+     "end": 104.65,
+     "score": 0.194,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "text": "If I can feel your",
+   "lrcStart": 104.197,
+   "start": 104.683,
+   "end": 106.41,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 104.683,
+     "end": 105.01,
+     "score": 0.122,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 105.183,
+     "end": 105.23,
+     "score": 0.255,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 105.263,
+     "end": 105.45,
+     "score": 0.193,
+     "manual": false
+    },
+    {
+     "text": "feel",
+     "start": 105.483,
+     "end": 105.93,
+     "score": 0.239,
+     "manual": false
+    },
+    {
+     "text": "your",
+     "start": 105.963,
+     "end": 106.41,
+     "score": 0.397,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "text": "VIBRATIONS",
+   "lrcStart": 106.293,
+   "start": 106.442,
+   "end": 107.39,
+   "caps": true,
+   "words": [
+    {
+     "text": "VIBRATIONS",
+     "start": 106.442,
+     "end": 107.39,
+     "score": 0.269,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 67,
+   "text": "Then I can",
+   "lrcStart": 107.22,
+   "start": 107.422,
+   "end": 108.25,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 107.422,
+     "end": 107.93,
+     "score": 0.092,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 107.963,
+     "end": 108.01,
+     "score": 0.05,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 108.043,
+     "end": 108.25,
+     "score": 0.144,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "text": "Then I can finally be",
+   "lrcStart": 107.903,
+   "start": 108.282,
+   "end": 110.31,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 108.282,
+     "end": 108.87,
+     "score": 0.121,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 108.903,
+     "end": 108.95,
+     "score": 0.129,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 108.983,
+     "end": 109.15,
+     "score": 0.503,
+     "manual": false
+    },
+    {
+     "text": "finally",
+     "start": 109.183,
+     "end": 110.09,
+     "score": 0.222,
+     "manual": false
+    },
+    {
+     "text": "be",
+     "start": 110.123,
+     "end": 110.31,
+     "score": 0.52,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "text": "COMPLETION",
+   "lrcStart": 110.221,
+   "start": 110.343,
+   "end": 111.03,
+   "caps": true,
+   "words": [
+    {
+     "text": "COMPLETION",
+     "start": 110.343,
+     "end": 111.03,
+     "score": 0.777,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "text": "Though you have left",
+   "lrcStart": 110.9,
+   "start": 111.062,
+   "end": 112.43,
+   "caps": false,
+   "words": [
+    {
+     "text": "Though",
+     "start": 111.062,
+     "end": 111.45,
+     "score": 0.136,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 111.483,
+     "end": 111.69,
+     "score": 0.353,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 111.722,
+     "end": 111.97,
+     "score": 0.667,
+     "manual": false
+    },
+    {
+     "text": "left",
+     "start": 112.002,
+     "end": 112.43,
+     "score": 0.398,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "text": "You have left",
+   "lrcStart": 112.22,
+   "start": 112.463,
+   "end": 113.35,
+   "caps": false,
+   "words": [
+    {
+     "text": "You",
+     "start": 112.463,
+     "end": 112.63,
+     "score": 0.231,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 112.662,
+     "end": 112.89,
+     "score": 0.135,
+     "manual": false
+    },
+    {
+     "text": "left",
+     "start": 112.922,
+     "end": 113.35,
+     "score": 0.186,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "text": "You have left",
+   "lrcStart": 113.1,
+   "start": 113.382,
+   "end": 114.31,
+   "caps": false,
+   "words": [
+    {
+     "text": "You",
+     "start": 113.382,
+     "end": 113.55,
+     "score": 0.043,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 113.582,
+     "end": 113.87,
+     "score": 0.003,
+     "manual": false
+    },
+    {
+     "text": "left",
+     "start": 113.903,
+     "end": 114.31,
+     "score": 0.005,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "text": "You have left",
+   "lrcStart": 114.18,
+   "start": 114.343,
+   "end": 115.15,
+   "caps": false,
+   "words": [
+    {
+     "text": "You",
+     "start": 114.343,
+     "end": 114.47,
+     "score": 0.082,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 114.502,
+     "end": 114.77,
+     "score": 0.047,
+     "manual": false
+    },
+    {
+     "text": "left",
+     "start": 114.802,
+     "end": 115.15,
+     "score": 0.064,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "text": "You have left",
+   "lrcStart": 114.92,
+   "start": 115.183,
+   "end": 116.13,
+   "caps": false,
+   "words": [
+    {
+     "text": "You",
+     "start": 115.183,
+     "end": 115.39,
+     "score": 0.047,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 115.422,
+     "end": 115.69,
+     "score": 0.389,
+     "manual": false
+    },
+    {
+     "text": "left",
+     "start": 115.722,
+     "end": 116.13,
+     "score": 0.748,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "text": "You have left me in",
+   "lrcStart": 115.78,
+   "start": 116.183,
+   "end": 117.55,
+   "caps": false,
+   "words": [
+    {
+     "text": "You",
+     "start": 116.183,
+     "end": 116.33,
+     "score": 0.483,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 116.362,
+     "end": 116.57,
+     "score": 0.613,
+     "manual": false
+    },
+    {
+     "text": "left",
+     "start": 116.603,
+     "end": 116.963,
+     "score": 0.674,
+     "manual": false
+    },
+    {
+     "text": "me",
+     "start": 116.983,
+     "end": 117.17,
+     "score": 0.208,
+     "manual": false
+    },
+    {
+     "text": "in",
+     "start": 117.323,
+     "end": 117.55,
+     "score": 0.351,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 76,
+   "text": "ISOLATION",
+   "lrcStart": 117.274,
+   "start": 117.582,
+   "end": 118.51,
+   "caps": true,
+   "words": [
+    {
+     "text": "ISOLATION",
+     "start": 117.582,
+     "end": 118.51,
+     "score": 0.309,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 77,
+   "text": "If I can",
+   "lrcStart": 118.333,
+   "start": 118.543,
+   "end": 119.43,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 118.543,
+     "end": 118.9,
+     "score": 0.413,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 119.062,
+     "end": 119.093,
+     "score": 0.544,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 119.123,
+     "end": 119.43,
+     "score": 0.502,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 78,
+   "text": "If I can erase all the pointless",
+   "lrcStart": 118.979,
+   "start": 119.463,
+   "end": 121.61,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 119.463,
+     "end": 119.79,
+     "score": 0.576,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 119.963,
+     "end": 120.01,
+     "score": 0.675,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 120.043,
+     "end": 120.35,
+     "score": 0.64,
+     "manual": false
+    },
+    {
+     "text": "erase",
+     "start": 120.382,
+     "end": 120.77,
+     "score": 0.513,
+     "manual": false
+    },
+    {
+     "text": "all",
+     "start": 120.802,
+     "end": 120.93,
+     "score": 0.143,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 120.963,
+     "end": 121.11,
+     "score": 0.303,
+     "manual": false
+    },
+    {
+     "text": "pointless",
+     "start": 121.162,
+     "end": 121.61,
+     "score": 0.383,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 79,
+   "text": "FRAGMENTS",
+   "lrcStart": 120.86,
+   "start": 121.642,
+   "end": 122.142,
+   "caps": true,
+   "words": [
+    {
+     "text": "FRAGMENTS",
+     "start": 121.642,
+     "end": 122.142,
+     "score": 0.32,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 80,
+   "text": "Then maybe",
+   "lrcStart": 121.728,
+   "start": 122.142,
+   "end": 123.01,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 122.142,
+     "end": 122.55,
+     "score": 0.406,
+     "manual": false
+    },
+    {
+     "text": "maybe",
+     "start": 122.582,
+     "end": 123.01,
+     "score": 0.724,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 81,
+   "text": "Then maybe you won't leave me so",
+   "lrcStart": 122.714,
+   "start": 123.043,
+   "end": 125.09,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 123.043,
+     "end": 123.47,
+     "score": 0.746,
+     "manual": false
+    },
+    {
+     "text": "maybe",
+     "start": 123.502,
+     "end": 123.95,
+     "score": 0.392,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 123.983,
+     "end": 124.17,
+     "score": 0.229,
+     "manual": false
+    },
+    {
+     "text": "won't",
+     "start": 124.203,
+     "end": 124.422,
+     "score": 0.131,
+     "manual": false
+    },
+    {
+     "text": "leave",
+     "start": 124.422,
+     "end": 124.642,
+     "score": 0.167,
+     "manual": false
+    },
+    {
+     "text": "me",
+     "start": 124.662,
+     "end": 124.83,
+     "score": 0.603,
+     "manual": false
+    },
+    {
+     "text": "so",
+     "start": 124.862,
+     "end": 125.09,
+     "score": 0.705,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 82,
+   "text": "DISHEARTENED",
+   "lrcStart": 124.89,
+   "start": 125.123,
+   "end": 125.802,
+   "caps": true,
+   "words": [
+    {
+     "text": "DISHEARTENED",
+     "start": 125.123,
+     "end": 125.802,
+     "score": 0.459,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 83,
+   "text": "Challenging your god",
+   "lrcStart": 125.708,
+   "start": 125.823,
+   "end": 128.8,
+   "caps": false,
+   "words": [
+    {
+     "text": "Challenging",
+     "start": 125.823,
+     "end": 127.19,
+     "score": 0.473,
+     "manual": false
+    },
+    {
+     "text": "your",
+     "start": 127.222,
+     "end": 127.65,
+     "score": 0.67,
+     "manual": false
+    },
+    {
+     "text": "god",
+     "start": 127.683,
+     "end": 128.8,
+     "score": 0.86,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 84,
+   "text": "You have made some",
+   "lrcStart": 128.661,
+   "start": 129.083,
+   "end": 131.3,
+   "caps": false,
+   "words": [
+    {
+     "text": "You",
+     "start": 129.083,
+     "end": 129.25,
+     "score": 0.849,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 129.282,
+     "end": 129.482,
+     "score": 0.932,
+     "manual": false
+    },
+    {
+     "text": "made",
+     "start": 129.562,
+     "end": 130.43,
+     "score": 0.623,
+     "manual": false
+    },
+    {
+     "text": "some",
+     "start": 130.463,
+     "end": 131.3,
+     "score": 0.498,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 85,
+   "text": "ILLEGAL ARGUMENTS",
+   "lrcStart": 131.224,
+   "start": 131.463,
+   "end": 133.93,
+   "caps": true,
+   "words": [
+    {
+     "text": "ILLEGAL",
+     "start": 131.463,
+     "end": 132.55,
+     "score": 0.315,
+     "manual": false
+    },
+    {
+     "text": "ARGUMENTS",
+     "start": 132.583,
+     "end": 133.93,
+     "score": 0.391,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 86,
+   "text": "EXECUTION",
+   "lrcStart": 147.66,
+   "start": 148.002,
+   "end": 148.91,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 148.002,
+     "end": 148.91,
+     "score": 0.046,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 87,
+   "text": "EXECUTION",
+   "lrcStart": 148.6,
+   "start": 148.942,
+   "end": 149.85,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 148.942,
+     "end": 149.85,
+     "score": 0.014,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 88,
+   "text": "EXECUTION",
+   "lrcStart": 149.52,
+   "start": 149.882,
+   "end": 150.75,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 149.882,
+     "end": 150.75,
+     "score": 0.007,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 89,
+   "text": "EXECUTION",
+   "lrcStart": 150.54,
+   "start": 150.782,
+   "end": 151.64,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 150.782,
+     "end": 151.64,
+     "score": 0.001,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 90,
+   "text": "EXECUTION",
+   "lrcStart": 151.52,
+   "start": 151.722,
+   "end": 152.63,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 151.722,
+     "end": 152.63,
+     "score": 0.001,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 91,
+   "text": "EXECUTION",
+   "lrcStart": 152.28,
+   "start": 152.662,
+   "end": 153.53,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 152.662,
+     "end": 153.53,
+     "score": 0.0,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 92,
+   "text": "EXECUTION",
+   "lrcStart": 153.16,
+   "start": 153.562,
+   "end": 154.45,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 153.562,
+     "end": 154.45,
+     "score": 0.0,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 93,
+   "text": "EXECUTION",
+   "lrcStart": 153.98,
+   "start": 154.482,
+   "end": 155.39,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 154.482,
+     "end": 155.39,
+     "score": 0.001,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 94,
+   "text": "EXECUTION",
+   "lrcStart": 155.2,
+   "start": 155.423,
+   "end": 156.31,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 155.423,
+     "end": 156.31,
+     "score": 0.095,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 95,
+   "text": "EXECUTION",
+   "lrcStart": 156.08,
+   "start": 156.343,
+   "end": 157.23,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 156.343,
+     "end": 157.23,
+     "score": 0.479,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 96,
+   "text": "EXECUTION",
+   "lrcStart": 157.04,
+   "start": 157.262,
+   "end": 158.15,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 157.262,
+     "end": 158.15,
+     "score": 0.387,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 97,
+   "text": "EXECUTION",
+   "lrcStart": 158.0,
+   "start": 158.183,
+   "end": 159.05,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 158.183,
+     "end": 159.05,
+     "score": 0.572,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 98,
+   "text": "EIN",
+   "lrcStart": 158.9,
+   "start": 159.162,
+   "end": 159.39,
+   "caps": true,
+   "words": [
+    {
+     "text": "EIN",
+     "start": 159.162,
+     "end": 159.39,
+     "score": 0.613,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 99,
+   "text": "DOS",
+   "lrcStart": 159.321,
+   "start": 159.523,
+   "end": 159.88,
+   "caps": true,
+   "words": [
+    {
+     "text": "DOS",
+     "start": 159.523,
+     "end": 159.88,
+     "score": 0.527,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 100,
+   "text": "TROIS",
+   "lrcStart": 159.657,
+   "start": 159.942,
+   "end": 160.29,
+   "caps": true,
+   "words": [
+    {
+     "text": "TROIS",
+     "start": 159.942,
+     "end": 160.29,
+     "score": 0.417,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 101,
+   "text": "NE",
+   "lrcStart": 160.244,
+   "start": 160.442,
+   "end": 160.7,
+   "caps": true,
+   "words": [
+    {
+     "text": "NE",
+     "start": 160.442,
+     "end": 160.7,
+     "score": 0.828,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 102,
+   "text": "FEM",
+   "lrcStart": 160.693,
+   "start": 160.863,
+   "end": 161.31,
+   "caps": true,
+   "words": [
+    {
+     "text": "FEM",
+     "start": 160.863,
+     "end": 161.31,
+     "score": 0.535,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 103,
+   "text": "LIU",
+   "lrcStart": 161.124,
+   "start": 161.343,
+   "end": 161.59,
+   "caps": true,
+   "words": [
+    {
+     "text": "LIU",
+     "start": 161.343,
+     "end": 161.59,
+     "score": 0.545,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 104,
+   "text": "EXECUTION",
+   "lrcStart": 161.584,
+   "start": 161.863,
+   "end": 162.79,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 161.863,
+     "end": 162.79,
+     "score": 0.562,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 105,
+   "text": "If I can",
+   "lrcStart": 162.632,
+   "start": 162.822,
+   "end": 163.73,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 162.822,
+     "end": 163.17,
+     "score": 0.184,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 163.343,
+     "end": 163.39,
+     "score": 0.062,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 163.423,
+     "end": 163.73,
+     "score": 0.146,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 106,
+   "text": "If I can give them all the",
+   "lrcStart": 163.315,
+   "start": 163.762,
+   "end": 165.57,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 163.762,
+     "end": 164.12,
+     "score": 0.122,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 164.262,
+     "end": 164.31,
+     "score": 0.124,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 164.343,
+     "end": 164.55,
+     "score": 0.222,
+     "manual": false
+    },
+    {
+     "text": "give",
+     "start": 164.583,
+     "end": 164.822,
+     "score": 0.089,
+     "manual": false
+    },
+    {
+     "text": "them",
+     "start": 164.822,
+     "end": 165.09,
+     "score": 0.46,
+     "manual": false
+    },
+    {
+     "text": "all",
+     "start": 165.123,
+     "end": 165.25,
+     "score": 0.004,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 165.282,
+     "end": 165.57,
+     "score": 0.354,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 107,
+   "text": "EXECUTION",
+   "lrcStart": 165.166,
+   "start": 165.602,
+   "end": 166.41,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 165.602,
+     "end": 166.41,
+     "score": 0.456,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 108,
+   "text": "Then I can",
+   "lrcStart": 166.016,
+   "start": 166.442,
+   "end": 167.33,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 166.442,
+     "end": 166.99,
+     "score": 0.248,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 167.023,
+     "end": 167.09,
+     "score": 0.051,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 167.123,
+     "end": 167.33,
+     "score": 0.286,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 109,
+   "text": "Then I can be your only",
+   "lrcStart": 167.022,
+   "start": 167.363,
+   "end": 169.25,
+   "caps": false,
+   "words": [
+    {
+     "text": "Then",
+     "start": 167.363,
+     "end": 167.93,
+     "score": 0.264,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 167.963,
+     "end": 168.01,
+     "score": 0.399,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 168.042,
+     "end": 168.25,
+     "score": 0.25,
+     "manual": false
+    },
+    {
+     "text": "be",
+     "start": 168.282,
+     "end": 168.47,
+     "score": 0.156,
+     "manual": false
+    },
+    {
+     "text": "your",
+     "start": 168.502,
+     "end": 168.65,
+     "score": 0.028,
+     "manual": false
+    },
+    {
+     "text": "only",
+     "start": 168.683,
+     "end": 169.25,
+     "score": 0.112,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 110,
+   "text": "EXECUTION",
+   "lrcStart": 168.911,
+   "start": 169.282,
+   "end": 170.17,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 169.282,
+     "end": 170.17,
+     "score": 0.328,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 111,
+   "text": "If I can have you back",
+   "lrcStart": 169.824,
+   "start": 170.203,
+   "end": 172.102,
+   "caps": false,
+   "words": [
+    {
+     "text": "If",
+     "start": 170.203,
+     "end": 170.69,
+     "score": 0.272,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 170.722,
+     "end": 170.77,
+     "score": 0.184,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 170.803,
+     "end": 171.01,
+     "score": 0.308,
+     "manual": false
+    },
+    {
+     "text": "have",
+     "start": 171.042,
+     "end": 171.562,
+     "score": 0.314,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 171.562,
+     "end": 171.71,
+     "score": 0.311,
+     "manual": false
+    },
+    {
+     "text": "back",
+     "start": 171.743,
+     "end": 172.102,
+     "score": 0.338,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 112,
+   "text": "I will run the",
+   "lrcStart": 171.868,
+   "start": 172.102,
+   "end": 172.95,
+   "caps": false,
+   "words": [
+    {
+     "text": "I",
+     "start": 172.102,
+     "end": 172.23,
+     "score": 0.002,
+     "manual": false
+    },
+    {
+     "text": "will",
+     "start": 172.262,
+     "end": 172.39,
+     "score": 0.043,
+     "manual": false
+    },
+    {
+     "text": "run",
+     "start": 172.423,
+     "end": 172.65,
+     "score": 0.357,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 172.683,
+     "end": 172.95,
+     "score": 0.04,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 113,
+   "text": "EXECUTION",
+   "lrcStart": 172.712,
+   "start": 172.982,
+   "end": 173.79,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 172.982,
+     "end": 173.79,
+     "score": 0.516,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 114,
+   "text": "Though we are trapped",
+   "lrcStart": 173.643,
+   "start": 173.822,
+   "end": 175.19,
+   "caps": false,
+   "words": [
+    {
+     "text": "Though",
+     "start": 173.822,
+     "end": 174.123,
+     "score": 0.031,
+     "manual": false
+    },
+    {
+     "text": "we",
+     "start": 174.123,
+     "end": 174.53,
+     "score": 0.109,
+     "manual": false
+    },
+    {
+     "text": "are",
+     "start": 174.562,
+     "end": 174.67,
+     "score": 0.149,
+     "manual": false
+    },
+    {
+     "text": "trapped",
+     "start": 174.703,
+     "end": 175.19,
+     "score": 0.339,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 115,
+   "text": "We are trapped ah",
+   "lrcStart": 174.975,
+   "start": 175.222,
+   "end": 177.69,
+   "caps": false,
+   "words": [
+    {
+     "text": "We",
+     "start": 175.222,
+     "end": 175.45,
+     "score": 0.081,
+     "manual": false
+    },
+    {
+     "text": "are",
+     "start": 175.482,
+     "end": 175.59,
+     "score": 0.139,
+     "manual": false
+    },
+    {
+     "text": "trapped",
+     "start": 175.623,
+     "end": 176.262,
+     "score": 0.312,
+     "manual": false
+    },
+    {
+     "text": "ah",
+     "start": 176.262,
+     "end": 177.69,
+     "score": 0.412,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 116,
+   "text": "I've studied",
+   "lrcStart": 177.246,
+   "start": 177.722,
+   "end": 178.61,
+   "caps": false,
+   "words": [
+    {
+     "text": "I've",
+     "start": 177.722,
+     "end": 177.903,
+     "score": 0.078,
+     "manual": false
+    },
+    {
+     "text": "studied",
+     "start": 177.903,
+     "end": 178.61,
+     "score": 0.417,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 117,
+   "text": "I've studied how to properly",
+   "lrcStart": 178.173,
+   "start": 178.643,
+   "end": 180.47,
+   "caps": false,
+   "words": [
+    {
+     "text": "I've",
+     "start": 178.643,
+     "end": 178.782,
+     "score": 0.079,
+     "manual": false
+    },
+    {
+     "text": "studied",
+     "start": 178.803,
+     "end": 179.33,
+     "score": 0.404,
+     "manual": false
+    },
+    {
+     "text": "how",
+     "start": 179.363,
+     "end": 179.55,
+     "score": 0.041,
+     "manual": false
+    },
+    {
+     "text": "to",
+     "start": 179.583,
+     "end": 179.77,
+     "score": 0.238,
+     "manual": false
+    },
+    {
+     "text": "properly",
+     "start": 179.803,
+     "end": 180.47,
+     "score": 0.222,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 118,
+   "text": "LO-O-OVE",
+   "lrcStart": 179.929,
+   "start": 180.502,
+   "end": 181.15,
+   "caps": true,
+   "words": [
+    {
+     "text": "LO-O-OVE",
+     "start": 180.502,
+     "end": 181.15,
+     "score": 0.224,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 119,
+   "text": "Question me",
+   "lrcStart": 180.857,
+   "start": 181.183,
+   "end": 182.07,
+   "caps": false,
+   "words": [
+    {
+     "text": "Question",
+     "start": 181.183,
+     "end": 181.85,
+     "score": 0.312,
+     "manual": false
+    },
+    {
+     "text": "me",
+     "start": 181.882,
+     "end": 182.07,
+     "score": 0.416,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 120,
+   "text": "Question me I can answer all",
+   "lrcStart": 181.901,
+   "start": 182.102,
+   "end": 184.33,
+   "caps": false,
+   "words": [
+    {
+     "text": "Question",
+     "start": 182.102,
+     "end": 182.77,
+     "score": 0.336,
+     "manual": false
+    },
+    {
+     "text": "me",
+     "start": 182.803,
+     "end": 183.05,
+     "score": 0.347,
+     "manual": false
+    },
+    {
+     "text": "I",
+     "start": 183.083,
+     "end": 183.23,
+     "score": 0.003,
+     "manual": false
+    },
+    {
+     "text": "can",
+     "start": 183.262,
+     "end": 183.53,
+     "score": 0.282,
+     "manual": false
+    },
+    {
+     "text": "answer",
+     "start": 183.562,
+     "end": 184.01,
+     "score": 0.349,
+     "manual": false
+    },
+    {
+     "text": "all",
+     "start": 184.042,
+     "end": 184.33,
+     "score": 0.035,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 121,
+   "text": "LO-O-OVE",
+   "lrcStart": 183.646,
+   "start": 184.363,
+   "end": 185.07,
+   "caps": true,
+   "words": [
+    {
+     "text": "LO-O-OVE",
+     "start": 184.363,
+     "end": 185.07,
+     "score": 0.025,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 122,
+   "text": "I know the algebraic expression of",
+   "lrcStart": 184.54,
+   "start": 185.102,
+   "end": 187.882,
+   "caps": false,
+   "words": [
+    {
+     "text": "I",
+     "start": 185.102,
+     "end": 185.23,
+     "score": 0.132,
+     "manual": false
+    },
+    {
+     "text": "know",
+     "start": 185.262,
+     "end": 185.55,
+     "score": 0.374,
+     "manual": false
+    },
+    {
+     "text": "the",
+     "start": 185.583,
+     "end": 185.85,
+     "score": 0.195,
+     "manual": false
+    },
+    {
+     "text": "algebraic",
+     "start": 185.882,
+     "end": 186.79,
+     "score": 0.366,
+     "manual": false
+    },
+    {
+     "text": "expression",
+     "start": 186.822,
+     "end": 187.71,
+     "score": 0.532,
+     "manual": false
+    },
+    {
+     "text": "of",
+     "start": 187.743,
+     "end": 187.882,
+     "score": 0.066,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 123,
+   "text": "LO-O-OVE",
+   "lrcStart": 187.665,
+   "start": 187.903,
+   "end": 188.51,
+   "caps": true,
+   "words": [
+    {
+     "text": "LO-O-OVE",
+     "start": 187.903,
+     "end": 188.51,
+     "score": 0.02,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 124,
+   "text": "Though you are free",
+   "lrcStart": 188.483,
+   "start": 188.542,
+   "end": 190.13,
+   "caps": false,
+   "words": [
+    {
+     "text": "Though",
+     "start": 188.542,
+     "end": 189.01,
+     "score": 0.073,
+     "manual": false
+    },
+    {
+     "text": "you",
+     "start": 189.042,
+     "end": 189.33,
+     "score": 0.372,
+     "manual": false
+    },
+    {
+     "text": "are",
+     "start": 189.363,
+     "end": 189.45,
+     "score": 0.233,
+     "manual": false
+    },
+    {
+     "text": "free",
+     "start": 189.482,
+     "end": 190.13,
+     "score": 0.474,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 125,
+   "text": "I am trapped",
+   "lrcStart": 189.746,
+   "start": 190.162,
+   "end": 190.822,
+   "caps": false,
+   "words": [
+    {
+     "text": "I",
+     "start": 190.162,
+     "end": 190.21,
+     "score": 0.367,
+     "manual": false
+    },
+    {
+     "text": "am",
+     "start": 190.243,
+     "end": 190.39,
+     "score": 0.455,
+     "manual": false
+    },
+    {
+     "text": "trapped",
+     "start": 190.423,
+     "end": 190.822,
+     "score": 0.189,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 126,
+   "text": "Trapped in",
+   "lrcStart": 190.801,
+   "start": 190.863,
+   "end": 191.57,
+   "caps": false,
+   "words": [
+    {
+     "text": "Trapped",
+     "start": 190.863,
+     "end": 191.39,
+     "score": 0.288,
+     "manual": false
+    },
+    {
+     "text": "in",
+     "start": 191.423,
+     "end": 191.57,
+     "score": 0.569,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 127,
+   "text": "LO-O-OVE",
+   "lrcStart": 191.356,
+   "start": 191.602,
+   "end": 192.44,
+   "caps": true,
+   "words": [
+    {
+     "text": "LO-O-OVE",
+     "start": 191.602,
+     "end": 192.44,
+     "score": 0.037,
+     "manual": false
+    }
+   ]
+  },
+  {
+   "i": 128,
+   "text": "EXECUTION",
+   "lrcStart": 205.811,
+   "start": 206.162,
+   "end": 207.11,
+   "caps": true,
+   "words": [
+    {
+     "text": "EXECUTION",
+     "start": 206.162,
+     "end": 207.11,
+     "score": 0.127,
+     "manual": false
+    }
+   ]
+  }
+ ]
+}
